@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hari-singh-bisht-02bb101a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-singh-bisht-02bb101a1" height="30" width="40" /></a>
 <a href="https://instagram.com/hemubisht13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemubisht13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hari-singh-bisht-02bb101a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hari-singh-bisht-02bb101a1" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
