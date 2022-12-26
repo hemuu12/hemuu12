@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hari-singh-bisht-02bb101a1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="hari-singh-bisht-02bb101a1" height="30" width="40" /></a>
-<a href="https://instagram.com/hemubisht13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemubisht13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hari-singh-bisht-02bb101a1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="hari-singh-bisht-02bb101a1" height="40" width="40" /></a>
+<a href="https://instagram.com/hemubisht13" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="hemubisht13" height="40" width="40" /></a>
 
 </p>
 
