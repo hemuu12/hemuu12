@@ -33,4 +33,4 @@
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemuu12&theme=2077" width="100%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohit-Raj-Singh&theme=react-dark&custom_title=hemuu12%20's%20contribution%20Graph&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hemuu12&theme=react-dark&custom_title=hemuu12%20's%20contribution%20Graph&hide_border=true" />
