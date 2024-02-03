@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hari Singh Bisht</h1>
 <h3 align="center">A passionate frontend developer from India Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
-- 💬 Ask me about **react ,javascript**
+- 💬 Ask me about **react ,javascript , Nextjs ,Nodejs , TypeScript , MongoDB**
 
 - 📫 How to reach me **harisingh.bisht2001@gmail.com**
 
